@@ -76,7 +76,7 @@ const aIMG = [
 	"https://fl511.com/map/Cctv/1142--11",
 	"https://fl511.com/map/Cctv/1143--11",
 	"https://fl511.com/map/Cctv/679--11",
-	"https://fl511.com/map/Cctv/3333?t=1737562105"",,
+	"https://fl511.com/map/Cctv/3333?t=1737562105",
   ],
   [
     "SATELLITE - GULF OF MEXICO",
