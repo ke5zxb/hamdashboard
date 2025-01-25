@@ -62,8 +62,8 @@ const aURL = [
 const aIMG = [
   ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
-    "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KTBW_loop.gif",
+    "Live cam World",
+	"iframe|https://www.youtube.com/embed/z7SiAaN4ogw?autoplay=1&mute=1",
   ],
   [
     "NOAA D-RAP",
@@ -71,12 +71,12 @@ const aIMG = [
   ],
   [
     "", // Traffic
-	"https://fl511.com/map/Cctv/1138--11",
+	"https://fl511.com/map/Cctv/2278?t=1737565106",
 	"https://fl511.com/map/Cctv/1140--11",
 	"https://fl511.com/map/Cctv/1142--11",
 	"https://fl511.com/map/Cctv/1143--11",
 	"https://fl511.com/map/Cctv/679--11",
-	"https://fl511.com/map/Cctv/678--11",,
+	"https://fl511.com/map/Cctv/3333?t=1737562105"",,
   ],
   [
     "SATELLITE - GULF OF MEXICO",
