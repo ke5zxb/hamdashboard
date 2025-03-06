@@ -66,8 +66,8 @@ const aIMG = [
 	"iframe|https://www.youtube.com/embed/z7SiAaN4ogw?autoplay=1&mute=1",
   ],
   [
-    "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "LOCAL RADAR",
+    "https://radar.weather.gov/ridge/standard/KTBW_loop.gif",
   ],
   [
     "", // Traffic
